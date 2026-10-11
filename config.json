@@ -1,0 +1,52 @@
+{
+  "keywords": [
+    {
+      "word": "福瑞",
+      "search_pages": 1,
+      "comment_list": [],
+      "comment_pool_mode": 0,
+      "blacklist": [],
+      "blacklist_mode": 1
+    },
+    {
+      "word": "furry",
+      "search_pages": 1,
+      "comment_list": [],
+      "comment_pool_mode": 0,
+      "blacklist": [],
+      "blacklist_mode": 1
+    }
+  ],
+  "target_up": [],
+  "up_blacklist": [],
+  "blacklist": [
+    "拍卖",
+    "送设",
+    "兽设"
+  ],
+  "interval": 600,
+  "global_search_pages": 1,
+  "comment_list": [
+    "可爱捏",
+    "支持"
+  ],
+  "like_delay": [
+    2.0,
+    3.0
+  ],
+  "comment_delay": [
+    6.0,
+    20.0
+  ],
+  "comment_pause_duration": 1200,
+  "log_enabled": false,
+  "log_file": "bili_like.log",
+  "account": [
+    {
+      "cookie": "cookie.txt",
+      "frequency": 1.0,
+      "like_enabled": true,
+      "comment_enabled": true
+    }
+  ]
+}
